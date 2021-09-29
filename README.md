@@ -1,0 +1,2 @@
+# kurrbot
+SC bot
